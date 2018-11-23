@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+      {
+          "label": "build",
+          "command": "dotnet",
+          "type": "process",
+          "args": [
+              "build",
+              "${workspaceFolder}/darksharddesign_server.csproj"
+          ],
+          "problemMatcher": "$msCompile"
+      },
+      {
+          "label": "release",
+          "command": "dotnet",
+          "type": "process",
+          "args": [
+              "build",
+              "${workspaceFolder}/darksharddesign_server.csproj",
+              "-c",
+              "Release"
+          ],
+          "problemMatcher": "$msCompile"
+      }        
+  ]
+}

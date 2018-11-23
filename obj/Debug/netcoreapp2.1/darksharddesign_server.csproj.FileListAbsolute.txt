@@ -1,0 +1,14 @@
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/bin/Debug/netcoreapp2.1/darksharddesign_server.deps.json
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/bin/Debug/netcoreapp2.1/darksharddesign_server.runtimeconfig.json
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/bin/Debug/netcoreapp2.1/darksharddesign_server.runtimeconfig.dev.json
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/bin/Debug/netcoreapp2.1/darksharddesign_server.dll
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/bin/Debug/netcoreapp2.1/darksharddesign_server.pdb
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.csprojAssemblyReference.cache
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.csproj.CoreCompileInputs.cache
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.RazorAssemblyInfo.cache
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.RazorAssemblyInfo.cs
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.AssemblyInfoInputs.cache
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.AssemblyInfo.cs
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.RazorTargetAssemblyInfo.cache
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.dll
+/media/sean/DATA/projects/github/DarkShard Design/darksharddesign_server/obj/Debug/netcoreapp2.1/darksharddesign_server.pdb
